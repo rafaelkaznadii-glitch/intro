@@ -41,11 +41,10 @@ I have worked on:
 <table>
   <tr>
     <td align="center"><strong>9+ years</strong><br/>Full-stack development</td>
-    <td align="center"><strong>6 years</strong><br/>React / Next.js</td>
-    <td align="center"><strong>5 years</strong><br/>TypeScript</td>
     <td align="center"><strong>4 years</strong><br/>Python</td>
     <td align="center"><strong>3 years</strong><br/>Android</td>
     <td align="center"><strong>2 years</strong><br/>iOS</td>
+    <td align="center"><strong>3 years</strong><br/>Java</td>
   </tr>
 </table>
 
@@ -55,8 +54,13 @@ I have worked on:
 
 ### Zecar EV Platform
 
-**Role:** Full-Stack & Mobile Developer  
+**Role:** Full-Stack Developer  
+**Period:** Jan 2024 — Feb 2025  
 **Product:** Electric-vehicle database, comparison, reviews, resources, deals, and administration platform for Australia
+
+<a href="https://rafaelkaznadii-glitch.github.io/intro/#zecar">
+  <img src="assets/readme/zecar-ev-platform.png" alt="Zecar EV Platform thumbnail — catalogue, reviews, deals, resources, and admin" width="100%" />
+</a>
 
 Zecar brings structured EV data and consumer-facing tools into one responsive product. I contributed across the web platform, backend workflows, data presentation, product discovery, administration, and mobile application development.
 
@@ -81,8 +85,13 @@ Zecar brings structured EV data and consumer-facing tools into one responsive pr
 
 ### GID Industrial ERP System
 
-**Role:** C# / ASP.NET Backend Developer · Product Data Engineer · Mobile Application Developer  
+**Role:** Back End Developer · Product Data Engineer  
+**Period:** Mar 2025 — Jun 2026  
 **Product:** ERP, sourcing, purchasing, finance, reporting, product-information, administration, and website platform
+
+<a href="https://rafaelkaznadii-glitch.github.io/intro/#gid-industrial">
+  <img src="assets/readme/gid-industrial-erp.png" alt="GID Industrial ERP System thumbnail — sales, purchasing, finance, reporting, and website screens" width="100%" />
+</a>
 
 GID Industrial is an operational software ecosystem connecting sales, purchasing, suppliers, inventory, invoicing, reporting, product data, administration, and public website workflows.
 
@@ -162,12 +171,16 @@ My mobile work covers product-focused application development, user workflows, b
 
 ## Professional Experience
 
+Aligned with résumé / CV / portfolio (updated July 2026):
+
 | Period | Role | Focus |
 |---|---|---|
-| **2017 — Present** | **Full-Stack Developer · Freelance / Remote** | Production web applications, backend systems, APIs, databases, mobile applications, AWS deployment, and client delivery |
-| **Recent** | **C# / ASP.NET Backend Developer · GID Industrial** | ERP workflows, operational software, industrial product data, Python acquisition pipelines, and reporting |
-| **2023 — 2024** | **HTML5 Animator · PureRed** | HTML5, JavaScript, GSAP, Three.js, PixiJS, Lottie.js, and interactive campaigns |
-| **2021 — 2023** | **WebGL Developer · Haddad and Partners** | WebGL, Three.js, Babylon.js, PixiJS, GSAP, interactive 3D experiences, and product configurators |
+| **Jan 2024 — Present** | **Full Stack Developer · Freelance / Self-Employed** | Custom web applications, backend APIs, databases, AWS deployment, mobile work, and end-to-end client delivery |
+| **Jun 2026 — Jul 2026** | **Project Manager & Full-Stack Developer · CEO · QA · TraderFriend** | Roadmap, full-stack delivery, product decisions, and quality assurance for an API-driven sports-trading platform |
+| **Mar 2025 — Jun 2026** | **Back End Developer · Product Data Engineer · GID Industrial** | C#/ASP.NET ERP workflows, industrial product-data pipelines, reporting, and Android / iOS application workflows |
+| **Jan 2024 — Feb 2025** | **Full Stack Developer · Zecar** | Australian EV marketplace — structured vehicle data, filtering, comparisons, content, offers, and Android / iOS work |
+| **2023 — 2024** | **HTML5 Animator · PureRed** | HTML5, JavaScript, GSAP, Three.js, PixiJS, Lottie.js, and interactive campaign production |
+| **2021 — 2023** | **WebGL Developer · Haddad and Partners** | Interactive 3D web experiences and product configurators with WebGL, Three.js, Babylon.js, PixiJS, and GSAP |
 
 [**Open my full experience timeline →**](https://rafaelkaznadii-glitch.github.io/intro/#experience)
 
